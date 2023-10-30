@@ -1,5 +1,8 @@
 <!doctype html>
-
+<html>
+<head>
+<link rel="style.css" type="text/css" media="screen" img="style.css"/>
+</head>
 
 <body
 
